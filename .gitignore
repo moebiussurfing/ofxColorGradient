@@ -116,3 +116,16 @@ Desktop.ini
 *.log
 *.sql
 *.sqlite
+example/config.make
+example/data/falseColor.png
+example/example.sln
+example/example.vcxproj
+example/example.vcxproj.filters
+example/example.vcxproj.user
+example/icon.rc
+example/.vs/example/CopilotIndices/17.14.734.62261/CodeChunks.db
+example/.vs/example/CopilotIndices/17.14.734.62261/SemanticSymbols.db
+example/.vs/example/FileContentIndex/abfecb28-0383-4706-9dd4-8389eded5c01.vsidx
+example/.vs/example/v17/fileList.bin
+example/.vs/example/v17/Preview/Browse.VC.db
+example/.vs/example/v17/Preview/Solution.VC.db
